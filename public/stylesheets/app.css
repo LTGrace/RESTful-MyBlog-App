@@ -1,0 +1,24 @@
+i.icon{
+    font-size:2em;
+}
+
+.container.main{
+    margin-top: 7.0em;
+}
+
+#delete{
+    display: inline;
+    margin-top:10px;
+}
+
+#mycontainer{
+    margin-top:10px;
+}
+
+#mymargin{
+    margin-top:10px;
+}
+
+#myplus{
+    font-size: 0.8em;
+}
